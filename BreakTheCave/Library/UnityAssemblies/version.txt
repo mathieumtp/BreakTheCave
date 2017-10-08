@@ -1,0 +1,2 @@
+5.6.3p4:3.0.0.1
+StandaloneWindows

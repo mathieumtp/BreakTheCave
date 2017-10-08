@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 989452e1575893642a692f8f5305fe38
+timeCreated: 1507423825
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armrest
+    100004: Back
+    100006: Back_seams_1
+    100008: Back_seams_2
+    100010: Back_seams_3
+    100012: Headrest
+    100014: Headrest__seams_1
+    100016: Leg
+    100018: Mountings
+    100020: pen_1
+    100022: pen_2
+    100024: Protection
+    100026: Screw
+    100028: seat
+    100030: seat_MeshPart0
+    100032: seat_MeshPart1
+    100034: seat_seams_1
+    100036: seat_seams_2
+    100038: Wheel_1
+    100040: Wheel_1_MeshPart0
+    100042: Wheel_1_MeshPart1
+    100044: Wheel_2
+    100046: Wheel_2_MeshPart0
+    100048: Wheel_2_MeshPart1
+    100050: Wheel_3
+    100052: Wheel_3_MeshPart0
+    100054: Wheel_3_MeshPart1
+    100056: Wheel_4
+    100058: Wheel_4_MeshPart0
+    100060: Wheel_4_MeshPart1
+    100062: Wheel_5
+    100064: Wheel_5_MeshPart0
+    100066: Wheel_5_MeshPart1
+    400000: //RootNode
+    400002: Armrest
+    400004: Back
+    400006: Back_seams_1
+    400008: Back_seams_2
+    400010: Back_seams_3
+    400012: Headrest
+    400014: Headrest__seams_1
+    400016: Leg
+    400018: Mountings
+    400020: pen_1
+    400022: pen_2
+    400024: Protection
+    400026: Screw
+    400028: seat
+    400030: seat_MeshPart0
+    400032: seat_MeshPart1
+    400034: seat_seams_1
+    400036: seat_seams_2
+    400038: Wheel_1
+    400040: Wheel_1_MeshPart0
+    400042: Wheel_1_MeshPart1
+    400044: Wheel_2
+    400046: Wheel_2_MeshPart0
+    400048: Wheel_2_MeshPart1
+    400050: Wheel_3
+    400052: Wheel_3_MeshPart0
+    400054: Wheel_3_MeshPart1
+    400056: Wheel_4
+    400058: Wheel_4_MeshPart0
+    400060: Wheel_4_MeshPart1
+    400062: Wheel_5
+    400064: Wheel_5_MeshPart0
+    400066: Wheel_5_MeshPart1
+    2300000: Armrest
+    2300002: Back
+    2300004: Back_seams_1
+    2300006: Back_seams_2
+    2300008: Back_seams_3
+    2300010: Headrest
+    2300012: Headrest__seams_1
+    2300014: Leg
+    2300016: Mountings
+    2300018: pen_1
+    2300020: pen_2
+    2300022: Protection
+    2300024: Screw
+    2300026: seat_MeshPart0
+    2300028: seat_MeshPart1
+    2300030: seat_seams_1
+    2300032: seat_seams_2
+    2300034: Wheel_1_MeshPart0
+    2300036: Wheel_1_MeshPart1
+    2300038: Wheel_2_MeshPart0
+    2300040: Wheel_2_MeshPart1
+    2300042: Wheel_3_MeshPart0
+    2300044: Wheel_3_MeshPart1
+    2300046: Wheel_4_MeshPart0
+    2300048: Wheel_4_MeshPart1
+    2300050: Wheel_5_MeshPart0
+    2300052: Wheel_5_MeshPart1
+    3300000: Armrest
+    3300002: Back
+    3300004: Back_seams_1
+    3300006: Back_seams_2
+    3300008: Back_seams_3
+    3300010: Headrest
+    3300012: Headrest__seams_1
+    3300014: Leg
+    3300016: Mountings
+    3300018: pen_1
+    3300020: pen_2
+    3300022: Protection
+    3300024: Screw
+    3300026: seat_MeshPart0
+    3300028: seat_MeshPart1
+    3300030: seat_seams_1
+    3300032: seat_seams_2
+    3300034: Wheel_1_MeshPart0
+    3300036: Wheel_1_MeshPart1
+    3300038: Wheel_2_MeshPart0
+    3300040: Wheel_2_MeshPart1
+    3300042: Wheel_3_MeshPart0
+    3300044: Wheel_3_MeshPart1
+    3300046: Wheel_4_MeshPart0
+    3300048: Wheel_4_MeshPart1
+    3300050: Wheel_5_MeshPart0
+    3300052: Wheel_5_MeshPart1
+    4300000: Armrest
+    4300002: Back
+    4300004: Back_seams_1
+    4300006: Back_seams_2
+    4300008: Back_seams_3
+    4300010: Headrest
+    4300012: Headrest__seams_1
+    4300014: Leg
+    4300016: Mountings
+    4300018: pen_1
+    4300020: pen_2
+    4300022: Protection
+    4300024: Screw
+    4300026: seat_MeshPart0
+    4300028: seat_MeshPart1
+    4300030: seat_seams_1
+    4300032: seat_seams_2
+    4300034: Wheel_1_MeshPart0
+    4300036: Wheel_1_MeshPart1
+    4300038: Wheel_2_MeshPart0
+    4300040: Wheel_2_MeshPart1
+    4300042: Wheel_3_MeshPart0
+    4300044: Wheel_3_MeshPart1
+    4300046: Wheel_4_MeshPart0
+    4300048: Wheel_4_MeshPart1
+    4300050: Wheel_5_MeshPart0
+    4300052: Wheel_5_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
